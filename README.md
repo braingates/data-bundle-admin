@@ -1,2 +1,2 @@
 # data-bundle-admin
-data bundle admin dashbord 
+data bundle admin dashboard 
